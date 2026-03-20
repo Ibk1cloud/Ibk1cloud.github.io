@@ -52,3 +52,36 @@ This analysis aims to explore patterns in patient distribution, identify demogra
 The dashboard enables healthcare stakeholders to understand population trends, disparities, and potential inequalities in cancer diagnosis and care, supporting data-driven decision-making in improving patient outcomes and healthcare delivery.
 
 ![Cancer_Patient_Db](Cancer_Patient_Db.PNG)
+
+
+# Project 3
+
+**Title:** [Adidas US Interactive Sales dashboard](https://github.com/Ibk1cloud/Ibk1cloud.github.io/blob/main/Adidas_Dashboard_Project.xlsx)
+
+**Tools Used:** Microsoft Excel(Pivot tables, Pivot charts, Timelines, Slicers, filters, sum range,
+
+**Project Description:** The Adidas US Sales Performance Dashboard presents a comprehensive, multi-dimensional analysis of retail sales operations across the United States. This project leverages transactional sales data to evaluate key business performance indicators, including revenue generation, profitability, regional performance, product category contribution, and sales channel effectiveness.
+
+The primary objective of this analysis is to uncover data-driven insights that inform strategic decision-making, optimise sales performance, and identify growth opportunities across different market segments. By integrating data across retail partners, geographic regions, product categories, and distribution channels, the dashboard provides a holistic view of business operations and enables stakeholders to assess both macro-level trends and granular performance metrics.
+
+**Key Findings:** 
+- Total sales reached £14.99M with a strong profit margin of approximately 35%.
+- West Gear is the top-performing retailer, contributing the highest share of revenue.
+- The West region generates the highest operating profit, indicating regional performance imbalance.
+- Outlet sales dominate (57%), while online sales contribute the least (17%).
+- Sales and profit show a positive growth trend over time.
+
+**Recommendations:**
+- Strengthen partnerships with high-performing retailers like West Gear.
+- Invest in underperforming regions to balance revenue distribution.
+- Expand e-commerce channels to increase online sales.
+- Diversify sales channels to reduce reliance on outlet stores.
+- Optimise product strategies to maximise revenue across categories.
+
+**Dashboard Overview:** This dashboard provides a comprehensive analysis of Adidas retail sales performance across the United States, focusing on revenue generation, profitability, regional performance, product categories, and sales channels. The dataset captures transactional sales data segmented by retailers, regions, product types, and sales methods, enabling a multi-dimensional evaluation of business performance.
+
+The objective of this analysis is to identify key revenue drivers, profitability trends, regional disparities, and customer purchasing behaviours, thereby supporting data-driven decision-making for sales optimisation and strategic growth.
+
+The dashboard integrates interactive filters such as date, region, product category, and retailer, allowing dynamic exploration of sales patterns and operational performance.
+
+![Adidas_Dasboard](Adidas_Dasboard.PNG)
